@@ -1,1 +1,2 @@
-My first Readme 2
+My first README 
+Git and README 
